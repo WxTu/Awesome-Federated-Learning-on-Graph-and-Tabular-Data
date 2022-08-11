@@ -72,7 +72,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
 This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine  and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
-| Title                                                        | Affiliation       | Venue                  | Year | TL;DR                                               | Materials                                                    |
+| T                                                        | Affiliation       | Venue                  | Year | TL;DR                                               | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy | Shanghai Jiao Tong University | KDD :mortar_board: | 2022 | FedWalk[^FedWalk] | [[PDF](https://arxiv.org/abs/2205.15896)] |
 | EasyFGL: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning :fire: | Alibaba Group | KDD :mortar_board: | 2022 | FederatedScope-GNN [^FederatedScope-GNN] | [[PDF](https://arxiv.org/abs/2204.05562)] [Code](https://github.com/alibaba/FederatedScope) |
